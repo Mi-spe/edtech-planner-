@@ -9,7 +9,6 @@ html, body, #root {
   background-color: #f9fafb;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
-
 // Mounts the React application layout engine onto the root index HTML target
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
